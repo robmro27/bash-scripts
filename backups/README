@@ -1,0 +1,3 @@
+This should be placed somewhere on server and run via cron job.
+Please fill parameters in config.cnf to connect to databases
+Please fill also parameters in database script like maximum databases and database names
